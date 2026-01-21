@@ -160,7 +160,6 @@ This study conducted a rigorous comparative analysis using **Stratified Monte Ca
 | **Logistic Regression** | Baseline | 0.71 | 0.80 | 0.75 |
 | **Logistic Regression** | SMOTE | 0.84 | 0.44 | 0.58 |
 
-*[Data Source: Table I in Report]*
 
 ### Conclusion
 
